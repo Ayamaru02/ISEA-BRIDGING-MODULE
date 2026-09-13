@@ -35,6 +35,21 @@ Total Cost of Ownership (TCO) in Cloud Infrastructure
 Provisioning and Securing a Cloud VM (AWS EC2)
 (Based on: Amazon EC2 Web Services Lab)
 
+<img width="1275" height="942" alt="image" src="https://github.com/user-attachments/assets/6093e777-da49-434c-80a8-037310f09960" />
+
+
+<img width="1277" height="941" alt="image" src="https://github.com/user-attachments/assets/9364c426-032d-4fde-9c66-55a19534f448" />
+
+
+<img width="2553" height="906" alt="image" src="https://github.com/user-attachments/assets/955796d3-4edd-4abc-b4ae-db363e4a4def" />
+
+
+<img width="1278" height="942" alt="image" src="https://github.com/user-attachments/assets/81e44ad7-f1a1-483f-a05c-f99b57e9d05e" />
+
+
+<img width="1273" height="862" alt="image" src="https://github.com/user-attachments/assets/a29ff04a-097c-47ca-af26-2b80e4a0ea12" />
+
+
 Writing Bash Scripts and Using Regular Expressions
 (Based on: Bash Coding Lab)
 
