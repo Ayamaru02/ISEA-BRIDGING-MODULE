@@ -1,38 +1,48 @@
 
 # ISEA-BRIDGING-MODULE
-1. Installing a Linux Environment on Your PC
+Installing a Linux Environment on Your PC
 (Based on: Obtaining a Linux Environment Lab)
 
+<img width="2552" height="986" alt="image" src="https://github.com/user-attachments/assets/adc66ac3-6b05-4b11-94b1-f2a62e268411" />
+
+
+<img width="2555" height="820" alt="image" src="https://github.com/user-attachments/assets/1f71545c-2ab2-49fe-acb6-52107b2ea395" />
+
+<img width="798" height="559" alt="image" src="https://github.com/user-attachments/assets/e8bff4e6-5bea-430b-9740-0dacd03b59c2" />
+
+
 <img width="1276" height="798" alt="Screenshot From 2026-09-13 11-04-29" src="https://github.com/user-attachments/assets/269ddd73-d06c-403e-b488-b721620abb9e" />
-3. Exploring Ubuntu Desktop and CLI Tools
+
+
+Exploring Ubuntu Desktop and CLI Tools
 (Based on: Ubuntu Desktop Familiarisation Lab)
 
-4. Managing and Controlling Linux Services
+Managing and Controlling Linux Services
 (Based on: Linux Services Lab)
 
-5. Understanding and Applying Linux Permissions
+Understanding and Applying Linux Permissions
 (Based on: Linux Permissions Lab)
 
-6. Searching and Navigating the Linux File System
+Searching and Navigating the Linux File System
 (Based on: Searching File Systems Lab)
 
-7. Total Cost of Ownership (TCO) in Cloud Infrastructure
+Total Cost of Ownership (TCO) in Cloud Infrastructure
 (Based on: TCO Analysis Lab for AWS vs Azure)
 
-8. Provisioning and Securing a Cloud VM (AWS EC2)
+Provisioning and Securing a Cloud VM (AWS EC2)
 (Based on: Amazon EC2 Web Services Lab)
 
-9. Writing Bash Scripts and Using Regular Expressions
+Writing Bash Scripts and Using Regular Expressions
 (Based on: Bash Coding Lab)
 
-10. Configuring DNS and Testing Domain Resolution
+Configuring DNS and Testing Domain Resolution
 (Based on: DNS Configuration Lab)
 
-11. Obtaining and Managing Digital Certificates with Let’s Encrypt
+Obtaining and Managing Digital Certificates with Let’s Encrypt
 (Based on: SSL Certificate Lab)
 
-12. Scripting Linux Server Functions for Automation
+Scripting Linux Server Functions for Automation
 (Based on: Scripting Linux Server Functions Lab)
 
-13. Additional Server Service (Self-Selected)
+Additional Server Service (Self-Selected)
 (E.g., MariaDB, Docker, Nextcloud, VPN, etc.)
