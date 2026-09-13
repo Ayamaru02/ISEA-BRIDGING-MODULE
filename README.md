@@ -10,6 +10,7 @@ Installing a Linux Environment on Your PC
 
 <img width="798" height="559" alt="image" src="https://github.com/user-attachments/assets/e8bff4e6-5bea-430b-9740-0dacd03b59c2" />
 
+<img width="799" height="557" alt="image" src="https://github.com/user-attachments/assets/75d9ba1d-132e-4702-95d2-4efb2367ef71" />
 
 <img width="1276" height="798" alt="Screenshot From 2026-09-13 11-04-29" src="https://github.com/user-attachments/assets/269ddd73-d06c-403e-b488-b721620abb9e" />
 
