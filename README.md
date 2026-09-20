@@ -1,6 +1,3 @@
-
-https://m365kloud.sharepoint.com/sites/LEARN/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FLEARN%2FShared%20Documents%2Fe%2DKAPLAN%2FMU%2DISEA%2Fstudent&p=true&ct=1789270625544&or=Teams%2DHL&ga=1&LOF=1
-
 # ISEA-BRIDGING-MODULE
 Installing a Linux Environment on Your PC
 (Based on: Obtaining a Linux Environment Lab)
