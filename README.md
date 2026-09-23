@@ -1,3 +1,10 @@
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 14-44-59" src="https://github.com/user-attachments/assets/49a14f26-8634-4cdb-8881-5399c16678c7" />
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 14-44-37" src="https://github.com/user-attachments/assets/d5d3985d-22cb-4ee8-b22f-a9ca0658a81c" />
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 14-44-14" src="https://github.com/user-attachments/assets/814743a0-2839-4cc0-9462-f3380a512fb0" />
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 14-42-53" src="https://github.com/user-attachments/assets/e91e089b-2fcd-4877-bafc-e392727368db" />
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 14-42-26" src="https://github.com/user-attachments/assets/64ca9bf9-8c59-420a-9f66-f1638c377526" />
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 14-38-52" src="https://github.com/user-attachments/assets/31b67d99-9937-44a9-a391-6292710364a4" />
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 14-36-49" src="https://github.com/user-attachments/assets/12c260f3-16d0-4da5-a36e-dec6f108446f" />
 # ISEA-BRIDGING-MODULE
 Installing a Linux Environment on Your PC
 (Based on: Obtaining a Linux Environment Lab)
