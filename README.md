@@ -109,17 +109,38 @@ Configuring DNS and Testing Domain Resolution
 
 <img width="1154" height="937" alt="image" src="https://github.com/user-attachments/assets/bd640466-5ba8-4eff-8e24-eebb74d3f22c" />
 
-<img width="1226" height="870" alt="image" src="https://github.com/user-attachments/assets/6c1d6445-16f7-43e1-bd00-63d5882bc22d" />
 
-<img width="1272" height="1028" alt="image" src="https://github.com/user-attachments/assets/08ae3100-5f12-463d-917e-e980d55491a3" />
 
 
 
 Obtaining and Managing Digital Certificates with Let’s Encrypt
 (Based on: SSL Certificate Lab)
 
+<img width="1226" height="870" alt="image" src="https://github.com/user-attachments/assets/6c1d6445-16f7-43e1-bd00-63d5882bc22d" />
+
+<img width="1272" height="1028" alt="image" src="https://github.com/user-attachments/assets/08ae3100-5f12-463d-917e-e980d55491a3" />
+
 Scripting Linux Server Functions for Automation
 (Based on: Scripting Linux Server Functions Lab)
+
+
+prepare sample directory
+<img width="1227" height="110" alt="image" src="https://github.com/user-attachments/assets/a15f8324-ba52-417a-ac92-788bc5adc94e" />
+
+write script
+<img width="1230" height="860" alt="image" src="https://github.com/user-attachments/assets/1dcf61d1-d5f2-43ae-a284-6eb80213919c" />
+
+<img width="1222" height="177" alt="image" src="https://github.com/user-attachments/assets/6b28b844-c2a0-46ea-b7e8-1957c5ea1490" />
+
+archive and zip files
+<img width="1224" height="238" alt="image" src="https://github.com/user-attachments/assets/52c06d8a-e428-4cd7-9edc-5612d843e1d0" />
+
+<img width="1223" height="780" alt="image" src="https://github.com/user-attachments/assets/0213969f-eae0-4de8-a542-87baef910acc" />
+
+<img width="628" height="444" alt="image" src="https://github.com/user-attachments/assets/698d2004-db26-47b2-be43-5cf81ce40253" />
+
+<img width="1220" height="784" alt="image" src="https://github.com/user-attachments/assets/83b31d41-160d-4532-8ed5-5c4c6cc3b161" />
+
 
 Additional Server Service (Self-Selected)
 (E.g., MariaDB, Docker, Nextcloud, VPN, etc.)
