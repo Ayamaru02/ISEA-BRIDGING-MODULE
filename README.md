@@ -62,6 +62,14 @@ Exploring Ubuntu Desktop and CLI Tools
 Managing and Controlling Linux Services
 (Based on: Linux Services Lab)
 
+
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 15-29-41" src="https://github.com/user-attachments/assets/c4dbbd53-119e-443c-8b8c-a71c2a882fa1" />
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 15-28-54" src="https://github.com/user-attachments/assets/f8a02be2-7885-4384-9fec-953defaa8e2b" />
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 15-17-44" src="https://github.com/user-attachments/assets/599dfc8f-77a9-48e1-ac2b-69a656398bc4" />
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 15-06-32" src="https://github.com/user-attachments/assets/ca419441-59d0-4e79-8d51-98564a906e06" />
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 15-02-45" src="https://github.com/user-attachments/assets/4d63d798-6c80-47f7-817c-0d65ef7b6925" />
+
+
 Understanding and Applying Linux Permissions
 (Based on: Linux Permissions Lab)
 
