@@ -103,6 +103,18 @@ Writing Bash Scripts and Using Regular Expressions
 Configuring DNS and Testing Domain Resolution
 (Based on: DNS Configuration Lab)
 
+<img width="1266" height="957" alt="image" src="https://github.com/user-attachments/assets/96f41b2d-2d31-4620-8046-d55bd3aa2480" />
+
+<img width="1263" height="974" alt="image" src="https://github.com/user-attachments/assets/51199529-df98-4b0a-9c8f-4d238ad86929" />
+
+<img width="1154" height="937" alt="image" src="https://github.com/user-attachments/assets/bd640466-5ba8-4eff-8e24-eebb74d3f22c" />
+
+<img width="1226" height="870" alt="image" src="https://github.com/user-attachments/assets/6c1d6445-16f7-43e1-bd00-63d5882bc22d" />
+
+<img width="1272" height="1028" alt="image" src="https://github.com/user-attachments/assets/08ae3100-5f12-463d-917e-e980d55491a3" />
+
+
+
 Obtaining and Managing Digital Certificates with Let’s Encrypt
 (Based on: SSL Certificate Lab)
 
@@ -111,3 +123,15 @@ Scripting Linux Server Functions for Automation
 
 Additional Server Service (Self-Selected)
 (E.g., MariaDB, Docker, Nextcloud, VPN, etc.)
+
+<img width="1217" height="675" alt="image" src="https://github.com/user-attachments/assets/b8786f14-3663-45a9-8dc9-5bfdefaef3d9" />
+<img width="1225" height="780" alt="image" src="https://github.com/user-attachments/assets/8c2571b8-8317-44c4-be34-b3bdee3e8089" />
+<img width="1221" height="908" alt="image" src="https://github.com/user-attachments/assets/30a24c0d-68ca-4e13-bd1e-5f305f94e658" />
+<img width="1224" height="836" alt="image" src="https://github.com/user-attachments/assets/de1ee3e3-6196-4a8f-9d7c-3febed5c332e" />
+<img width="1228" height="836" alt="image" src="https://github.com/user-attachments/assets/8e524b3f-f3b4-4b0b-950d-9b98cab191dd" />
+
+
+
+
+
+
