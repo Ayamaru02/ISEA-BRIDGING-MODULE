@@ -17,6 +17,41 @@ Installing a Linux Environment on Your PC
 Exploring Ubuntu Desktop and CLI Tools
 (Based on: Ubuntu Desktop Familiarisation Lab)
 
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 14-22-16" src="https://github.com/user-attachments/assets/ca7477f2-af27-498f-9efa-8e7aaa834533" />
+
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 14-25-26" src="https://github.com/user-attachments/assets/f38a1c81-9bb3-4d75-be3a-1cdbf2701efb" />
+
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 14-25-47" src="https://github.com/user-attachments/assets/773d57aa-841c-4358-8afc-6bfc06519d50" />
+
+<img width="1275" height="794" alt="Screenshot From 2026-09-23 14-28-12" src="https://github.com/user-attachments/assets/35fc7add-cf63-4b99-a1e5-268efd96eee7" />
+
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-17-09" src="https://github.com/user-attachments/assets/245bb1d9-d257-47b3-b58a-c0fe9ee65a27" />
+
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-16-53" src="https://github.com/user-attachments/assets/d80e7573-b1f6-4b7c-9c27-c7eb54075e71" />
+
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-18-37" src="https://github.com/user-attachments/assets/8cc23c09-f695-4d60-ae1e-44dbc5ab79ce" />
+
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-26-06" src="https://github.com/user-attachments/assets/b0973773-4b76-432b-8d37-5e2ba491a91b" />
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-25-55" src="https://github.com/user-attachments/assets/f131bf53-04a7-455f-983c-bef10a8166b6" />
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-24-59" src="https://github.com/user-attachments/assets/4273177a-ed80-484a-8dc2-348fb7f1bc9c" />
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-24-32" src="https://github.com/user-attachments/assets/25def99d-758a-44da-8b47-04e5d9365a30" />
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-23-12" src="https://github.com/user-attachments/assets/9084ac70-4faf-4be4-9d3f-ade16a5629a9" />
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-22-57" src="https://github.com/user-attachments/assets/63708b5a-0573-45ce-a75f-6bf0430746ca" />
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-22-25" src="https://github.com/user-attachments/assets/f0d136e2-a001-4adc-9782-96d5d3aa3e71" />
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-22-00" src="https://github.com/user-attachments/assets/4934d3e5-39b9-4124-8aeb-1b47c1d666cc" />
+<img width="1276" height="798" alt="Screenshot From 2026-09-13 11-19-33" src="https://github.com/user-attachments/assets/07aac9b3-6403-431f-be33-a840c8afc102" />
+
+
+
+
+
+
+
+
+
+
+
+
 Managing and Controlling Linux Services
 (Based on: Linux Services Lab)
 
